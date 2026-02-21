@@ -1,2 +1,3 @@
 Project Ideas:
-================
+- Habiba: Build a CI/CD pipeline for automated testing and deployment
+==============
