@@ -1,0 +1,5 @@
+Name: Habiba Mohamed
+Role: DevOps Enginer
+Skills: Python, Git, SQL
+Hobby: Reading
+Fun fact: I love solving logic puzzles

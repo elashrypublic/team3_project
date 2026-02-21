@@ -1,3 +1,7 @@
 Project Ideas:
 ================
 - Abdelrahman El-Ashry
+- Habiba: Build a CI/CD pipeline for automated testing and deployment
+Sleep in class
+Ahmed: Build an e-commerce website
+Script to parse server logs and generate reports
