@@ -1,0 +1,5 @@
+Name: Hisham Mohamed
+Role: DevOps
+Skills: Linux , Git and github , docker 
+Hobby: Gaming
+Fun fact: I can solve a Rubik's cube in under 2 minutes
