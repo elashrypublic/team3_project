@@ -1,3 +1,4 @@
 Project Ideas:
 ================
+Sleep in class
 Ahmed: Build an e-commerce website
