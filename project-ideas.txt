@@ -1,3 +1,4 @@
 Project Ideas:
 ================
 Ahmed: Build an e-commerce website
+Script to parse server logs and generate reports
